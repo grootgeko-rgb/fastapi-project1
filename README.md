@@ -44,7 +44,7 @@ The incoming request enforces defensive field constraints (`min_length`, `max_le
 
 ## 📂 Project Structure
 
-
+```text
 fastapi-project1/
 │
 ├── app.py          # Core FastAPI server application, lifespan context, and endpoints
