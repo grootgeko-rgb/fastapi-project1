@@ -7,7 +7,7 @@ The microservice architecture is highly optimized for performance and memory eff
 
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-although it has many assumptions such as the columns are in order, feature engineering is hardcoded. this is because i made the churn-prediction model in a kaggle competiiton and when i was implementing a fastapi project i thought i may aswell use that along with fastapi to build a project. thus i have adjusted the project a littile bit to my conviniance. i used the test.csv file from kaggle as the data, converted it into a dic after feature engineering to work as a DB.
+although it lacks in many areas such as the columns are in order, feature engineering is hardcoded. this is because i made the churn-prediction model in a kaggle competiiton and when i was implementing a fastapi project i thought i may aswell use that along with fastapi to build this project. thus i have adjusted the project a littile bit to my convenience . i used the test.csv file from kaggle as the data, converted it into a dic after feature engineering to work as a DB.
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 
